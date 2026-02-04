@@ -23,7 +23,7 @@ GSAP · ScrollTrigger · Lenis
 https://21-studio.vercel.app  
 
 **Edusity**  
-https://github.com/KamelMustafa/Edusity  
+edusity-college.vercel.app 
 
 ---
 
