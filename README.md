@@ -23,7 +23,7 @@ GSAP · ScrollTrigger · Lenis
 https://21-studio.vercel.app  
 
 **Edusity**  
-edusity-college.vercel.app 
+https://edusity-college.vercel.app 
 
 ---
 
