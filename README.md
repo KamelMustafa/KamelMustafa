@@ -19,11 +19,12 @@ GSAP · ScrollTrigger · Lenis
 ---
 
 ## Projects
-**21 Studio**  
-https://21-studio.vercel.app  
-
 **Edusity**  
 https://edusity-college.vercel.app 
+
+
+**EC**  
+https://kamelmustafa.github.io/ECommerce-Website/
 
 ---
 
